@@ -13,4 +13,4 @@ Welcome to my Github Profile! I am currently a 3rd year BS Computer Science stud
 #### Technologies
 [![Technology](https://skillicons.dev/icons?i=git,flutter,svelte,tailwind)](https://skillicons.dev)
 
-
+[![Dale's GitHub stats](https://github-readme-stats.vercel.app/api?username=exos7)](https://github.com/anuraghazra/github-readme-stats)
